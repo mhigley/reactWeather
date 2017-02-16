@@ -5,7 +5,7 @@ var About = React.createClass({
     render: function(){
         return (
             <div>
-                <h1 className="text-center">About</h1>
+                <h1 className="text-center page-title">About</h1>
                 <p>Here is information that I've learned.</p>
                 <ol>
                     <li><a href="https://facebook.github.io/react" target="_blank">Powered by React</a></li>
